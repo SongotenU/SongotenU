@@ -28,8 +28,8 @@ Led delivery across business, vendor, and engineering teams for a core banking m
 *Sanitized case study available on request.*
 
 ### Backend Engineering Lab
-[15 backend projects](https://github.com/SongotenU/backend) built to prove scale, security, and shipping discipline.
-Project 1 — high-throughput API service: **51k RPS** on `/api/ping` (`oha`; p50 6.86 ms, p95 16.61 ms).
+[A 15-project backend roadmap](https://github.com/SongotenU/backend) for scale, security, and shipping discipline.
+Project 1 is done — high-throughput API service: **51k RPS** on `/api/ping` (`oha`; p50 6.86 ms, p95 16.61 ms).
 
 ### Hermes Cost Sentinel
 [Live cost ledger and budget guarddog](https://github.com/SongotenU/hermes-cost-sentinel) for AI agents.
